@@ -16,3 +16,8 @@ application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 /vendor/
+/writable/
+.env
+Dockerfile
+docker-compose.yml
+framework-4.6.3.zip
